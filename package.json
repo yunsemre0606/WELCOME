@@ -4,7 +4,7 @@
   "description": "A simple Discord voucher bot.",
   "main": "theark.js",
   "scripts": {
-    "start": "node ."
+    "start": "node theark.js"
   },
   "dependencies": {
     "@discordjs/opus": "^0.5.0",
